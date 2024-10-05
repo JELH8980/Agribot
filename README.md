@@ -3,6 +3,8 @@ Robot Simulation and Analysis Tool
 
 This tool provides an interactive platform to simulate robot behavior, analyze human movement patterns, assess sensor accuracy, and conduct comprehensive risk analysis using a Monte Carlo approach with Markov Chain estimation.
 
+![Demo GIF](AgribotSimulation.gif)
+
 Installation
 ------------
 1. Ensure Python is installed on your machine.
