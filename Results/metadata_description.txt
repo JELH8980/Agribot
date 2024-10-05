@@ -1,0 +1,12 @@
+_Description of Columns in metadata.csv:
+
+- L1: Sensor parameter for the first layer.
+- L2: Sensor parameter for the second layer.
+- L3: Sensor parameter for the third layer.
+- accuracy: Accuracy level of the sensors.
+- nr_workers: The number of workers involved in the simulation.
+- nr_visitors: The number of visitors involved in the simulation.
+- Total Iterations: The total number of simulation iterations.
+- Number of Injury Cases: The total number of injury cases ('I') during the simulation.
+- Risk of Injury: The risk of injury calculated as (number of injuries / total iterations).
+- Average Productivity: Average productivity, defined as the mean of 1/Duration for each simulation iteration.
