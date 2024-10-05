@@ -17,16 +17,6 @@ File Structure
 --------------
 The folder structure of the project is organized as follows:
 
-.
-├── Assets
-├── Models
-├── Results
-├── analysis.py
-├── main.py
-├── README.txt
-├── settings.py
-└── simulation.py
-
 - **Assets/**: Stores visual and auxiliary assets used in the simulation.
 - **Models/**: Contains pre-trained models and output data.
 - **Results/**: Stores simulation results, sensitivity analysis outputs, and generated videos.
