@@ -19,7 +19,7 @@ The folder structure of the project is organized as follows:
 
 - **Assets/**: Stores visual and auxiliary assets used in the simulation.
 - **Models/**: Contains pre-trained models and output data.
-- **Results/**: Stores simulation results, sensitivity analysis outputs, and generated videos.
+- **Results/**: Stores simulation results, models, dataset, and generated videos.
 - **analysis.py**: Contains code for video analysis, sensitivity studies, and predictions.
 - **main.py**: The main entry point for running the program.
 - **settings.py**: Stores saved features and pre-configured simulation settings.
@@ -57,3 +57,5 @@ The software allows for modularity in the environment, with many parameters easy
 Further Reading
 ---------------
 For a detailed understanding of the methods used in this tool, including the Monte Carlo simulation approach and the Markov Chain estimation, refer to the accompanying report, available in the project repository.
+
+You can view the full report [here](Report.pdf).
