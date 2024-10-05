@@ -57,3 +57,5 @@ The software allows for modularity in the environment, with many parameters easy
 Further Reading
 ---------------
 For a detailed understanding of the methods used in this tool, including the Monte Carlo simulation approach and the Markov Chain estimation, refer to the accompanying report, available in the project repository.
+
+You can view the full report [here](reports/your_report.pdf).
