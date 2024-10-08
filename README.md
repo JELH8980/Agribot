@@ -61,3 +61,8 @@ Further Reading
 For a detailed understanding of the methods used in this tool, including the Monte Carlo simulation approach and the Markov Chain estimation, refer to the accompanying report, available in the project repository.
 
 You can view the full report [here](Report.pdf).
+
+
+Comments
+-------------
+Want to add, the pseudo-algorithm in the report will perhaps point the reader in the wrong direction. There are explicit methods on how to do this, mixture distributions can be fitted from data using the EM-algorithm i.e for GMM (Gaussian Mixture Models) or using non-parametric methods with i.e. Gaussian Kernels. The code will be updated in the future with a separate class which demonstrates the method and a clearer subsection in the method part of the report describing the algorithm with mathematics in the Appendix. It is possible that the EM-algorithm can be used for a mixture of not only Gaussians but also a mixture of a uniform, Gaussian etc - but have not looked into it yet. I appreciate any comments on this, still very new to me.
