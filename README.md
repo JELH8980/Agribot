@@ -65,4 +65,10 @@ You can view the full report [here](Report.pdf).
 
 Comments
 -------------
-Want to add, the pseudo-algorithm in the report will perhaps point the reader in the wrong direction. There are explicit methods on how to do this, mixture distributions can be fitted from data using the EM-algorithm i.e for GMM (Gaussian Mixture Models) or using non-parametric methods with i.e. Gaussian Kernels. The code will be updated in the future with a separate class which demonstrates the method and a clearer subsection in the method part of the report describing the algorithm with mathematics in the Appendix. It is possible that the EM-algorithm can be used for a mixture of not only Gaussians but also a mixture of a uniform, Gaussian etc - but have not looked into it yet. I appreciate any comments on this, still very new to me.
+Want to add:
+
+1. The pseudo-algorithm in the report will perhaps point the reader in the wrong direction. There are explicit methods on how to do this, mixture distributions can be          fitted from data using the EM-algorithm i.e for GMM (Gaussian Mixture Models) or using non-parametric methods with i.e. Gaussian Kernels. The code will be updated in the    future with a separate class which demonstrates the method and a clearer subsection in the method part of the report describing the algorithm with mathematics in the        Appendix. It is possible that the EM-algorithm can be used for a mixture of not only Gaussians but also a mixture of a uniform, Gaussian etc - but have not looked into      it yet.
+2. A better format on the results would be possible if one acquired the CTMC by calculating the generator Q from the estimated transition probability matrix P using the        matrix logarithm.
+
+
+
