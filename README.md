@@ -29,7 +29,7 @@ The folder structure of the project is organized as follows:
 
 Main Features
 -------------
-1. **Automated Sensitivity Analysis**: Automatically runs a grid search over selected parameters.
+1. **Automated Parameter Variation Analysis**: Automatically runs a grid search over selected parameters.
 2. **Manual Simulation**: Users can manually input the number of workers, visitors, and other parameters for running the simulation.
 3. **Sensitivity Analysis**: Load models, visualize them, and compute gradients for analysis.
 4. **Prediction**: Load a pre-trained model, input data, and make predictions based on user-provided parameters.
